@@ -91,7 +91,7 @@ open up you local host and port
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 523973314236.dkr.ecr.ap-southeast-2.amazonaws.com/chicken
+    - Save the URI
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
@@ -118,8 +118,6 @@ open up you local host and port
 # 6. Configure EC2 as self-hosted runner:
     setting>actions>runner>new self hosted runner> choose os> then run command one by one
 
-
-# 7. Setup github secret:
 
 
 

@@ -125,11 +125,11 @@ open up you local host and port
 
     AWS_SECRET_ACCESS_KEY=
 
-    AWS_REGION = ap-southeast-2
+    AWS_REGION = 
 
-    AWS_ECR_LOGIN_URI = demo>>  523973314236.dkr.ecr.ap-southeast-2.amazonaws.com
-
-    ECR_REPOSITORY_NAME = chicken
+    AWS_ECR_LOGIN_URI =
+    
+    ECR_REPOSITORY_NAME = 
 
 
 

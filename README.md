@@ -119,18 +119,7 @@ open up you local host and port
     setting>actions>runner>new self hosted runner> choose os> then run command one by one
 
 
-# 7. Setup github secrets:
-
-    AWS_ACCESS_KEY_ID=
-
-    AWS_SECRET_ACCESS_KEY=
-
-    AWS_REGION = 
-
-    AWS_ECR_LOGIN_URI =
-    
-    ECR_REPOSITORY_NAME = 
-
+# 7. Setup github secret:
 
 
 

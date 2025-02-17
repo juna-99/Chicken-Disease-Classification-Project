@@ -24,29 +24,7 @@ The dataset is split into training, validation, and test sets to ensure robust m
 
 ## 🏗️Project Structure
 
-Chicken-Disease-Classification-Project/
-├── app/ # Streamlit application files
-│ ├── app.py # Main Streamlit script
-│ └── assets/ # Static files (e.g., CSS, images)
-├── notebooks/ # Jupyter notebooks for EDA and model development
-│ ├── 01_eda.ipynb # Exploratory Data Analysis
-│ ├── 02_model_training.ipynb # Model training and evaluation
-│ └── 03_model_testing.ipynb # Model testing and predictions
-├── models/ # Saved models
-│ └── chicken_disease_model.h5 # Trained CNN model
-├── src/ # Source code
-│ ├── data_preprocessing.py # Scripts for data loading and preprocessing
-│ ├── model_training.py # Scripts for model training
-│ └── utils.py # Utility functions
-├── data/ # Dataset
-│ ├── train/ # Training images
-│ ├── val/ # Validation images
-│ └── test/ # Test images
-├── requirements.txt # Python dependencies
-├── environment.yml # Conda environment (optional)
-├── README.md # Project overview
-└── .gitignore # Files to ignore in Git
-
+![Alt text](https://github.com/juna-99/Chicken-Disease-Classification-Project/blob/be486f8d8edc8f3319c50ce490846515ef1ac4cd/blob/Screenshot%202025-02-17%20122500.png)
 
 ## 📊Results
 The trained CNN model achieved the following performance metrics on the test dataset:
@@ -57,7 +35,9 @@ The trained CNN model achieved the following performance metrics on the test dat
 - **F1-Score**: 91%
 
 ## 🪄Web Application Demo
+
 ![Alt text](https://github.com/juna-99/Chicken-Disease-Classification-Project/blob/ba8e596595c69a20d4230e32a9a92f0cb0d020ad/blob/Screenshot%202025-02-17%20121826.png)
+
 ## 🚀Future Work
 - **Expand Dataset**: Include more images and additional disease classes.
 - **Improve Model**: Experiment with advanced architectures like ResNet or EfficientNet.

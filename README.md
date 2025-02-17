@@ -1,7 +1,7 @@
-# 🐔 Chicken-Disease-Classification-Project
+# 🐔 Chicken Disease Classification
 
 ## 📈Project Overview
-This project focuses on building a deep learning model to classify chicken diseases based on images. The goal is to assist farmers and veterinarians in quickly identifying diseases in poultry, thereby improving animal health and reducing economic losses. The project leverages **TensorFlow** and **Keras** for building and training a convolutional neural network (CNN) model, and it includes a **Streamlit** web application for user-friendly interaction.
+This project focuses on building a deep learning model to classify chicken diseases based on images. The goal is to assist farmers and veterinarians in quickly identifying diseases in poultry, thereby improving animal health and reducing economic losses. This project implements a deep learning-based pipeline to detect and classify chicken diseases from images. It follows a full-stack MLOps approach, covering model training, deployment, CI/CD automation, and cloud hosting.
 
 ## 🔑Key Features
 - **Deep Learning Model**: A CNN-based model trained to classify chicken diseases from images.
